@@ -54,7 +54,9 @@ def a_estrella(grafo, inicio, objetivo):
 
 
 # PRUEBA
-ruta, costo = a_estrella(transporte, "B", "D")
+ruta, costo = a_estrella(transporte, "A", "D")
+#ruta, costo = a_estrella(transporte, "B", "D")
+
 
 print("Ruta óptima:", ruta)
 print("Costo total:", costo)
