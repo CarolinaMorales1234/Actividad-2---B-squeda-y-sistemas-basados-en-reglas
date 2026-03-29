@@ -1,1 +1,5 @@
-# Actividad-2---B-squeda-y-sistemas-basados-en-reglas
+# Actividad-2---Búsqueda-y-sistemas-basados-en-reglas
+
+## Presentación:
+
+https://canva.link/i5xyyq9d3fxojph
